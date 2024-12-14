@@ -7,27 +7,27 @@ import {
   } from "react-icons/hi2";
 
 // Project images
-import FATFileSystemImg from "@/public/img/FAT-file-system.png";
-import TLCBreadboardImg from "@/public/img/tlc-breadboard.png";
-import FreqResLCDImg from "@/public/img/display-freq-res-lcd.png";
-import RaytraceImg from "@/public/img/raytrace.png";
-import HuffmanTreeImg from "@/public/img/huffman-tree.png";
-import ChatAppImg from "@/public/img/chat-app.png";
-import BETHDataSetImg from "@/public/img/beth-dataset-data-mining.png";
+import FATFileSystemImg from "./public/img/FAT-file-system.png";
+import TLCBreadboardImg from "./public/img/tlc-breadboard.png";
+import FreqResLCDImg from "./public/img/display-freq-res-lcd.png";
+import RaytraceImg from "./public/img/raytrace.png";
+import HuffmanTreeImg from "./public/img/huffman-tree.png";
+import ChatAppImg from "./public/img/chat-app.png";
+import BETHDataSetImg from "./public/img/beth-dataset-data-mining.png";
 
 // Skills icons
-import Python from "@/public/svg/python.svg";
-import C from "@/public/svg/C.svg";
-import Cpp from "@/public/svg/cpp.svg";
-import Matlab from "@/public/svg/matlab.svg";
-import Bash from "@/public/svg/bash.svg";
-import MySQL from "@/public/svg/mysql.svg";
-import Git from "@/public/svg/git.svg";
-import Java from "@/public/svg/java.svg";
-import Docker from "@/public/svg/docker.svg";
-import JavaScript from "@/public/svg/javascript.svg";
-import HTML from "@/public/svg/html.svg";
-import CSS from "@/public/svg/css.svg";
+import Python from "./public/svg/python.svg";
+import C from "./public/svg/C.svg";
+import Cpp from "./public/svg/cpp.svg";
+import Matlab from "./public/svg/matlab.svg";
+import Bash from "./public/svg/bash.svg";
+import MySQL from "./public/svg/mysql.svg";
+import Git from "./public/svg/git.svg";
+import Java from "./public/svg/java.svg";
+import Docker from "./public/svg/docker.svg";
+import JavaScript from "./public/svg/javascript.svg";
+import HTML from "./public/svg/html.svg";
+import CSS from "./public/svg/css.svg";
 
 
 export const navItems = [
