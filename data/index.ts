@@ -17,7 +17,7 @@ import BETHDataSetImg from "@/public/img/beth-dataset-data-mining.png";
 
 // Skills icons
 import Python from "@/public/svg/python.svg";
-import C from "/portfolio/public/svg/C.svg";
+import C from "@/public/svg/C.svg";
 import Cpp from "@/public/svg/cpp.svg";
 import Matlab from "@/public/svg/matlab.svg";
 import Bash from "@/public/svg/bash.svg";
