@@ -7,27 +7,27 @@ import {
   } from "react-icons/hi2";
 
 // Project images
-import FATFileSystemImg from "@/public/img/FAT-file-system.png";
-import TLCBreadboardImg from "@/public/img/tlc-breadboard.png";
-import FreqResLCDImg from "@/public/img/display-freq-res-lcd.png";
-import RaytraceImg from "@/public/img/raytrace.png";
-import HuffmanTreeImg from "@/public/img/huffman-tree.png";
-import ChatAppImg from "@/public/img/chat-app.png";
-import BETHDataSetImg from "@/public/img/beth-dataset-data-mining.png";
+import FATFileSystemImg from "/portfolio/public/img/FAT-file-system.png";
+import TLCBreadboardImg from "/portfolio/public/img/tlc-breadboard.png";
+import FreqResLCDImg from "/portfolio/public/img/display-freq-res-lcd.png";
+import RaytraceImg from "/portfolio/public/img/raytrace.png";
+import HuffmanTreeImg from "/portfolio/public/img/huffman-tree.png";
+import ChatAppImg from "/portfolio/public/img/chat-app.png";
+import BETHDataSetImg from "/portfolio/public/img/beth-dataset-data-mining.png";
 
 // Skills icons
-import Python from "@/public/svg/python.svg";
-import C from "@/public/svg/C.svg";
-import Cpp from "@/public/svg/cpp.svg";
-import Matlab from "@/public/svg/matlab.svg";
-import Bash from "@/public/svg/bash.svg";
-import MySQL from "@/public/svg/mysql.svg";
-import Git from "@/public/svg/git.svg";
-import Java from "@/public/svg/java.svg";
-import Docker from "@/public/svg/docker.svg";
-import JavaScript from "@/public/svg/javascript.svg";
-import HTML from "@/public/svg/html.svg";
-import CSS from "@/public/svg/css.svg";
+import Python from "/portfolio/public/svg/python.svg";
+import C from "/portfolio/public/svg/C.svg";
+import Cpp from "/portfolio/public/svg/cpp.svg";
+import Matlab from "/portfolio/public/svg/matlab.svg";
+import Bash from "/portfolio/public/svg/bash.svg";
+import MySQL from "/portfolio/public/svg/mysql.svg";
+import Git from "/portfolio/public/svg/git.svg";
+import Java from "/portfolio/public/svg/java.svg";
+import Docker from "/portfolio/public/svg/docker.svg";
+import JavaScript from "/portfolio/public/svg/javascript.svg";
+import HTML from "/portfolio/public/svg/html.svg";
+import CSS from "/portfolio/public/svg/css.svg";
 
 
 export const navItems = [
