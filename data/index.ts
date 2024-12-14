@@ -7,13 +7,13 @@ import {
   } from "react-icons/hi2";
 
 // Project images
-import FATFileSystemImg from "./public/img/FAT-file-system.png";
-import TLCBreadboardImg from "./public/img/tlc-breadboard.png";
-import FreqResLCDImg from "./public/img/display-freq-res-lcd.png";
-import RaytraceImg from "./public/img/raytrace.png";
-import HuffmanTreeImg from "./public/img/huffman-tree.png";
-import ChatAppImg from "./public/img/chat-app.png";
-import BETHDataSetImg from "./public/img/beth-dataset-data-mining.png";
+import FATFileSystemImg from "./img/FAT-file-system.png";
+import TLCBreadboardImg from "./img/tlc-breadboard.png";
+import FreqResLCDImg from "./img/display-freq-res-lcd.png";
+import RaytraceImg from "./img/raytrace.png";
+import HuffmanTreeImg from "./img/huffman-tree.png";
+import ChatAppImg from "./img/chat-app.png";
+import BETHDataSetImg from "./img/beth-dataset-data-mining.png";
 
 // Skills icons
 import Python from "./public/svg/python.svg";
