@@ -15,12 +15,6 @@ import HuffmanTreeImg from "@/public/img/huffman-tree.png";
 import ChatAppImg from "@/public/img/chat-app.png";
 import BETHDataSetImg from "@/public/img/beth-dataset-data-mining.png";
 
-
-import JavaScript from "@/public/svg/javascript.svg";
-import HTML from "@/public/svg/html.svg";
-import CSS from "@/public/svg/css.svg";
-
-
 export const navItems = [
     {
         name: "Home",
