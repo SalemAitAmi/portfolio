@@ -1,5 +1,4 @@
 import Image from "next/image";
-import ContactSVG from "@/public/svg/contact.svg";
 
 const Contact = () => {
     return (
@@ -14,7 +13,9 @@ const Contact = () => {
         <br />
         <div className="flex items-center flex-col space-y-4  lg:flex-row">
           <Image
-            src={ContactSVG}
+            src="/svg/contact.svg"
+            width={750}
+            height={450}
             alt="Contact SVG"
             data-aos="fade-right"
             className="max-w-sm mt-4 md:mt-0 md:max-w-xl md:block text-gray-950"
