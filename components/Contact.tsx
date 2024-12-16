@@ -13,7 +13,7 @@ const Contact = () => {
         <br />
         <div className="flex items-center flex-col space-y-4  lg:flex-row">
           <Image
-            src="/svg/contact.svg"
+            src="svg/contact.svg"
             width={750}
             height={450}
             alt="Contact SVG"

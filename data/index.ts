@@ -90,7 +90,7 @@ export const skillItemsTop = [
     },
     {
         name: "C",
-        logo: "svg/C.svg",
+        logo: "svg/c.svg",
     },
     {
         name: "Bash",
