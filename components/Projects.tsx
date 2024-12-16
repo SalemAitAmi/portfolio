@@ -22,7 +22,7 @@ const Projects = () => {
                     <br />
                 </div>
                 <div className="flex items-start lg:flex-row flex-col-reverse gap-5">
-                    <Image src="/svg/projects.svg" width={35} height={35} alt="..." data-aos="fade-right" className="max-w-[45vw] min-w-[22rem] bg-gray-950 rounded-3xl text-yellow-800"/>
+                    <Image src="svg/projects.svg" width={35} height={35} alt="..." data-aos="fade-right" className="max-w-[45vw] min-w-[22rem] bg-gray-950 rounded-3xl text-yellow-800"/>
                     <Swiper pagination={{clickable : true, dynamicBullets : true}} autoHeight={true} autoplay={true} spaceBetween={20} modules={[Pagination, Mousewheel]} loop={true} mousewheel={{ enabled : true}} className="rounded-3xl pb-16 max-w-xs shawdow-lg shadow-yellow-700 self-start" data-aos="fade-left" >
                         {projectItems.map((item, index) => (
                             <SwiperSlide key={index} className="bg-gray-950 rounded-3xl p-5 border-b-8 border-yellow-800 h-fit">
