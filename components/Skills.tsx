@@ -17,7 +17,7 @@ const Skills = () => {
                     {skillItemsTop.map((item, index) => (
                         <div key={index} className="group relative flex w-full max-w-sm items-center gap-5 rounded-md border-2 border-yellow-700 bg-gray-950 p-5 duration-200 hover:border-yellow-500 sm:cursor-pointer" data-aos="fade-up" data-aos-delay={index*100}>
                             <div>
-                                <Image src={item.logo} alt={item.name} className="w-10 duration-200 group-hover:scale-125"/>
+                                <Image src={item.logo} width={10} height={10} alt={item.name} className="w-12 duration-200 group-hover:scale-125"/>
                             </div>
                             <div>
                                 <h6 className="text-gray-100">{item.name}</h6>
@@ -35,7 +35,7 @@ const Skills = () => {
                     {skillItemsFrontend.map((item, index) => (
                         <div key={index} className="group relative flex w-full max-w-sm items-center gap-5 rounded-md border-2 border-yellow-700 bg-gray-950 p-5 duration-200 hover:border-yellow-500 sm:cursor-pointer" data-aos="fade-up" data-aos-delay={index*100}>
                             <div>
-                                <Image src={item.logo} alt={item.name} className="w-10 duration-200 group-hover:scale-125"/>
+                                <Image src={item.logo} width={10} height={10} alt={item.name} className="w-10 duration-200 group-hover:scale-125"/>
                             </div>
                             <div>
                                 <h6 className="text-gray-100">{item.name}</h6>
@@ -53,7 +53,7 @@ const Skills = () => {
                     {skillItemsBackend.map((item, index) => (
                         <div key={index} className="group relative flex w-full max-w-sm items-center gap-5 rounded-md border-2 border-yellow-700 bg-gray-950 p-5 duration-200 hover:border-yellow-500 sm:cursor-pointer" data-aos="fade-up" data-aos-delay={index*100}>
                             <div>
-                                <Image src={item.logo} alt={item.name} className="w-10 duration-200 group-hover:scale-125"/>
+                                <Image src={item.logo} width={10} height={10} alt={item.name} className="w-10 duration-200 group-hover:scale-125"/>
                             </div>
                             <div>
                                 <h6 className="text-gray-100">{item.name}</h6>
@@ -71,7 +71,7 @@ const Skills = () => {
                     {skillItemsMisc.map((item, index) => (
                         <div key={index} className="group relative flex w-full max-w-sm items-center gap-5 rounded-md border-2 border-yellow-700 bg-gray-950 p-5 duration-200 hover:border-yellow-500 sm:cursor-pointer" data-aos="fade-up" data-aos-delay={index*100}>
                             <div>
-                                <Image src={item.logo} alt={item.name} className="w-10 duration-200 group-hover:scale-125"/>
+                                <Image src={item.logo} width={10} height={10} alt={item.name} className="w-10 duration-200 group-hover:scale-125"/>
                             </div>
                             <div>
                                 <h6 className="text-gray-100">{item.name}</h6>

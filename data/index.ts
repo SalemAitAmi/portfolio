@@ -15,16 +15,7 @@ import HuffmanTreeImg from "@/public/img/huffman-tree.png";
 import ChatAppImg from "@/public/img/chat-app.png";
 import BETHDataSetImg from "@/public/img/beth-dataset-data-mining.png";
 
-// Skills icons
-import Python from "@/public/svg/python.svg";
-import C from "@/public/svg/C.svg";
-import Cpp from "@/public/svg/cpp.svg";
-import Matlab from "@/public/svg/matlab.svg";
-import Bash from "@/public/svg/bash.svg";
-import MySQL from "@/public/svg/mysql.svg";
-import Git from "@/public/svg/git.svg";
-import Java from "@/public/svg/java.svg";
-import Docker from "@/public/svg/docker.svg";
+
 import JavaScript from "@/public/svg/javascript.svg";
 import HTML from "@/public/svg/html.svg";
 import CSS from "@/public/svg/css.svg";
@@ -101,57 +92,57 @@ export const projectItems = [
 export const skillItemsTop = [
     {
         name: "Python",
-        logo: Python,
+        logo: "/svg/python.svg",
     },
     {
         name: "C",
-        logo: C,
+        logo: "/svg/C.svg",
     },
     {
         name: "Bash",
-        logo: Bash,
+        logo: "/svg/bash.svg",
     },
     {
         name: "MySQL",
-        logo: MySQL,
+        logo: "/svg/mysql.svg",
     },
     {
         name: "Git",
-        logo: Git,
+        logo: "/svg/git.svg",
     },
 ];
 
 export const skillItemsFrontend = [
     {
         name: "JavaScript",
-        logo: JavaScript,
+        logo: "/svg/javascript.svg",
     },
     {
         name: "HTML",
-        logo: HTML,
+        logo: "/svg/html.svg",
     },
     {
         name: "CSS",
-        logo: CSS,
+        logo: "/svg/css.svg",
     },
 ];
 export const skillItemsBackend = [
     {
         name: "C++",
-        logo: Cpp,
+        logo: "/svg/cpp.svg",
     },
     {
         name: "Java",
-        logo: Java,
+        logo: "/svg/java.svg",
     },
 ];
 export const skillItemsMisc = [
     {
         name: "MATLAB",
-        logo: Matlab,
+        logo: "/svg/matlab.svg",
     },
     {
         name: "Docker",
-        logo: Docker,
+        logo: "/svg/docker.svg",
     },
 ];
