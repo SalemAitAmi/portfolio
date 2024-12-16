@@ -86,57 +86,57 @@ export const projectItems = [
 export const skillItemsTop = [
     {
         name: "Python",
-        logo: "/svg/python.svg",
+        logo: "svg/python.svg",
     },
     {
         name: "C",
-        logo: "/svg/C.svg",
+        logo: "svg/C.svg",
     },
     {
         name: "Bash",
-        logo: "/svg/bash.svg",
+        logo: "svg/bash.svg",
     },
     {
         name: "MySQL",
-        logo: "/svg/mysql.svg",
+        logo: "svg/mysql.svg",
     },
     {
         name: "Git",
-        logo: "/svg/git.svg",
+        logo: "svg/git.svg",
     },
 ];
 
 export const skillItemsFrontend = [
     {
         name: "JavaScript",
-        logo: "/svg/javascript.svg",
+        logo: "svg/javascript.svg",
     },
     {
         name: "HTML",
-        logo: "/svg/html.svg",
+        logo: "svg/html.svg",
     },
     {
         name: "CSS",
-        logo: "/svg/css.svg",
+        logo: "svg/css.svg",
     },
 ];
 export const skillItemsBackend = [
     {
         name: "C++",
-        logo: "/svg/cpp.svg",
+        logo: "svg/cpp.svg",
     },
     {
         name: "Java",
-        logo: "/svg/java.svg",
+        logo: "svg/java.svg",
     },
 ];
 export const skillItemsMisc = [
     {
         name: "MATLAB",
-        logo: "/svg/matlab.svg",
+        logo: "svg/matlab.svg",
     },
     {
         name: "Docker",
-        logo: "/svg/docker.svg",
+        logo: "svg/docker.svg",
     },
 ];
