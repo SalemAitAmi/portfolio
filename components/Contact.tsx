@@ -46,7 +46,7 @@ const Contact = () => {
             </div>
 
             <p className="leading-7 text-gray-300">
-            I'd love to hear from you! If you're looking for a dedicated and skilled professional to join your team, let's connect. I’m excited to see how we can achieve great things together!
+              I&apos;d love to hear from you! If you&apos;re looking for a dedicated and skilled professional to join your team, let&apos;s connect. I&apos;m excited to see how we can achieve great things together!
             </p>
             <br />
             <a
